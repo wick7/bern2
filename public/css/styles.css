@@ -1,0 +1,81 @@
+/* BASE  */
+
+html {
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
+header {
+    position: absolute;
+}
+
+/* NAVIGATION */
+
+.nav-text {
+    color: black;
+}
+
+.nav-text a {
+    color: black;
+}
+
+/* TYPOGRAPHY */
+
+
+
+
+
+
+
+
+
+/* MISC */
+
+.material-icons {
+    margin-top: .8rem;
+    color: black;
+}
+
+
+/* .mdl-cell { 
+    max-width: 100%;
+    background-color: blue;
+    border: solid black 1px;
+} */
+
+/* .mdl-grid { 
+    max-width: 90%;
+} */
+
+.photo--1{
+    background-image: url('https://images.pexels.com/photos/285857/pexels-photo-285857.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background-size: cover;
+}
+.photo--2{
+    background-image: url('https://images.pexels.com/photos/179959/pexels-photo-179959.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background-size: cover;
+}
+.photo--3{
+    background-image: url('https://images.pexels.com/photos/242433/pexels-photo-242433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background-size: cover;
+}
+.photo--4{
+    background-image: url('https://images.pexels.com/photos/280493/pexels-photo-280493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background-size: cover;
+}
+
+
+/* HOME PAGE SECTIONS */
+
+
+
+
+
+/* .mdl-cell {
+    height: 20rem;
+    
+} */
+
+
+
+
+
